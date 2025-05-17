@@ -13,8 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh1902&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # 💻 Tools:
-SOC tools - Splunk Crowdstrike sentinelone Rapid7IDR Rapid7IVM Proofpoint TAP & TRAP Azure Sentinel Microsoft Defender Azure AD and OKta
-Penttesting tools - Kali linux Wireshark Nmap Sqlmap and Burpsuite
+**SOC tools **- Splunk Crowdstrike sentinelone Rapid7IDR Rapid7IVM Proofpoint TAP & TRAP Azure Sentinel Microsoft Defender Azure AD and OKta
+
+**Penttesting tools** - Kali linux Wireshark Nmap Sqlmap and Burpsuite
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankesh1902&icon=0&color=0)](https://visitcount.itsvg.in)
